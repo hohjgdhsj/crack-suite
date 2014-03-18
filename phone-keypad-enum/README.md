@@ -1,6 +1,6 @@
-####Produces a list of possible words based on the standard phone keypads.
+####Produce a list of possible words based on the standard phone keypads.
 
-#####To use it:
+#####To Use It:
 python key-conv.py -n number
 
 #####Example:
